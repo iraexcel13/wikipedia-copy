@@ -1,0 +1,14 @@
+img {
+    float: left;
+    margin: 0 0 10px 10px;
+    width: 100%;
+}
+
+.container {
+  float: left;
+  width: 10%;
+  background-color: grey;
+  margin: 20px;
+
+
+}
